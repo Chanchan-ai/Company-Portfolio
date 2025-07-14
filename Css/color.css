@@ -1,0 +1,8 @@
+:root {
+    --navbar-text: #feede0;
+    --navbar-hover: #E8E4C9;
+    --navbar-bg-mobile: rgba(0, 0, 0, 0.85);
+    --logo-width: 120px;
+    --logo-height: 40px;
+    --home-background-color: #081723;
+}
